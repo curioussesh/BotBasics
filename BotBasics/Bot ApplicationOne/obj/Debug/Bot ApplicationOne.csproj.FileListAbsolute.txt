@@ -1,0 +1,41 @@
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Bot Application1.dll.config
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Bot Application1.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Bot Application1.pdb
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Autofac.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Chronic.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Microsoft.Bot.Builder.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Microsoft.Bot.Connector.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Newtonsoft.Json.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\System.Net.Http.Formatting.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\System.Web.Http.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\System.Web.Http.WebHost.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Autofac.xml
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Microsoft.Bot.Builder.xml
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Microsoft.Bot.Connector.xml
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\Newtonsoft.Json.xml
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\System.Net.Http.Formatting.xml
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\System.Web.Http.xml
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\System.Web.Http.WebHost.xml
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\obj\Debug\Bot ApplicationOne.csprojResolveAssemblyReference.cache
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\obj\Debug\Bot Application1.dll
+C:\Users\Srikrishna\Documents\GitHub\BotBasics\BotBasics\Bot ApplicationOne\obj\Debug\Bot Application1.pdb
